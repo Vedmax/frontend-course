@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cef2c87f-3212-4d22-9dc9-cd0232360793" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bundle.js" afterPath="$PROJECT_DIR$/bundle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bundle.js.map" afterPath="$PROJECT_DIR$/bundle.js.map" />
     </list>
@@ -32,19 +31,18 @@
               <caret line="249" column="15" selection-start-line="249" selection-start-column="15" selection-end-line="249" selection-end-column="15" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <marker date="1460814804013" expanded="true" signature="1836:1935" placeholder="{...}" />
-                <marker date="1460814804013" expanded="true" signature="58974:59011" placeholder="{...}" />
-                <marker date="1460814804013" expanded="true" signature="58974:59034" placeholder="[...]" />
-                <marker date="1460814804013" expanded="true" signature="58974:59119" placeholder="{...}" />
-                <marker date="1460814804013" expanded="true" signature="58974:59141" placeholder="[...]" />
-                <marker date="1460814804013" expanded="true" signature="58974:59223" placeholder="{...}" />
-                <marker date="1460814804013" expanded="true" signature="58974:59244" placeholder="[...]" />
-                <marker date="1460814804013" expanded="true" signature="58974:59323" placeholder="{...}" />
-                <marker date="1460814804013" expanded="true" signature="58974:59343" placeholder="[...]" />
-                <marker date="1460814804013" expanded="true" signature="58974:59419" placeholder="{...}" />
-                <marker date="1460814804013" expanded="true" signature="58974:59438" placeholder="[...]" />
-                <marker date="1460814804013" expanded="true" signature="58974:59599" placeholder="{...}" />
-                <marker date="1460814804013" expanded="true" signature="58974:59616" placeholder="[...]" />
+                <marker date="1460814813541" expanded="true" signature="1836:1935" placeholder="{...}" />
+                <marker date="1460814813541" expanded="true" signature="62727:62764" placeholder="{...}" />
+                <marker date="1460814813541" expanded="true" signature="62727:62787" placeholder="[...]" />
+                <marker date="1460814813541" expanded="true" signature="62727:62872" placeholder="{...}" />
+                <marker date="1460814813541" expanded="true" signature="62727:62894" placeholder="[...]" />
+                <marker date="1460814813541" expanded="true" signature="62727:62976" placeholder="{...}" />
+                <marker date="1460814813541" expanded="true" signature="62727:62997" placeholder="[...]" />
+                <marker date="1460814813541" expanded="true" signature="62727:63076" placeholder="{...}" />
+                <marker date="1460814813541" expanded="true" signature="62727:63096" placeholder="[...]" />
+                <marker date="1460814813541" expanded="true" signature="62727:63172" placeholder="{...}" />
+                <marker date="1460814813541" expanded="true" signature="62727:63191" placeholder="[...]" />
+                <marker date="1460814813541" expanded="true" signature="62727:63369" placeholder="[...]" />
               </folding>
             </state>
           </provider>
@@ -152,6 +150,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -415,19 +416,18 @@
           <caret line="249" column="15" selection-start-line="249" selection-start-column="15" selection-end-line="249" selection-end-column="15" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <marker date="1460814804013" expanded="true" signature="1836:1935" placeholder="{...}" />
-            <marker date="1460814804013" expanded="true" signature="58974:59011" placeholder="{...}" />
-            <marker date="1460814804013" expanded="true" signature="58974:59034" placeholder="[...]" />
-            <marker date="1460814804013" expanded="true" signature="58974:59119" placeholder="{...}" />
-            <marker date="1460814804013" expanded="true" signature="58974:59141" placeholder="[...]" />
-            <marker date="1460814804013" expanded="true" signature="58974:59223" placeholder="{...}" />
-            <marker date="1460814804013" expanded="true" signature="58974:59244" placeholder="[...]" />
-            <marker date="1460814804013" expanded="true" signature="58974:59323" placeholder="{...}" />
-            <marker date="1460814804013" expanded="true" signature="58974:59343" placeholder="[...]" />
-            <marker date="1460814804013" expanded="true" signature="58974:59419" placeholder="{...}" />
-            <marker date="1460814804013" expanded="true" signature="58974:59438" placeholder="[...]" />
-            <marker date="1460814804013" expanded="true" signature="58974:59599" placeholder="{...}" />
-            <marker date="1460814804013" expanded="true" signature="58974:59616" placeholder="[...]" />
+            <marker date="1460814813541" expanded="true" signature="1836:1935" placeholder="{...}" />
+            <marker date="1460814813541" expanded="true" signature="62727:62764" placeholder="{...}" />
+            <marker date="1460814813541" expanded="true" signature="62727:62787" placeholder="[...]" />
+            <marker date="1460814813541" expanded="true" signature="62727:62872" placeholder="{...}" />
+            <marker date="1460814813541" expanded="true" signature="62727:62894" placeholder="[...]" />
+            <marker date="1460814813541" expanded="true" signature="62727:62976" placeholder="{...}" />
+            <marker date="1460814813541" expanded="true" signature="62727:62997" placeholder="[...]" />
+            <marker date="1460814813541" expanded="true" signature="62727:63076" placeholder="{...}" />
+            <marker date="1460814813541" expanded="true" signature="62727:63096" placeholder="[...]" />
+            <marker date="1460814813541" expanded="true" signature="62727:63172" placeholder="{...}" />
+            <marker date="1460814813541" expanded="true" signature="62727:63191" placeholder="[...]" />
+            <marker date="1460814813541" expanded="true" signature="62727:63369" placeholder="[...]" />
           </folding>
         </state>
       </provider>
