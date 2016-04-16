@@ -1,7 +1,7 @@
 var should = require('should');
 var emoji = require('../src/emoji');
 
-describe("emoji", function() {
+describe("emoji", () => {
     it('should not change text without smileys', function(){
         emoji.format("Hello world").should.equal("Hello world");
     });
